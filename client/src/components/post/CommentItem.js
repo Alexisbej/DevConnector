@@ -45,7 +45,8 @@ CommentItem.propTypes = {
   deleteComment: PropTypes.func.isRequired
 };
 
-const mapStateToProps = (state = {
+// prettier-ignore
+const mapStateToProps = state = ({
   auth: state.auth
 });
 
