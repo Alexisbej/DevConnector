@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://wealz1:wealz1@devconnector-7chxv.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "43b50914bf73ba34cfd1",
+  "githubSecret": "7d62188d2a101da372b8a9a9732daac98650edfb"
+}
