@@ -4,6 +4,8 @@ This is my 1st full stack app that i made with React.js and Node.js, following B
 
 This app is a social network for developers, that allow them to create a profesionnal profile, adding github repositories. There is a conversation part, working as a forum.
 
+The app is pushed on Heroku at : https://devconnector-bejrach.herokuapp.com/
+
 ## Node.js API
 
 The API was developed with Node.js using Express.
